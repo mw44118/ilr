@@ -1,0 +1,182 @@
+Tech change at work talk
+
+You
+===
+
+Class goals from syllabus
+-------------------------
+
+1.  Assess the extent to which the present wave of emerging workplace
+    technologies differs from earlier ones.
+
+2.  Describe theorized patterns of how new technologies shape and
+    reshape the employment relationship and the workplace for specific
+    social groups and apply these theories to emerging workplace
+    technologies.
+
+I (Matt) don't really know about these theories
+
+3.  Identify potential points of conflict and change in workplace
+    hierarchy given information about how a new technology is being used
+    in a contemporary workplace.
+
+4.  Prescribe policy responses aimed at mitigating the potentially
+    deleterious impact of workplace technological change and articulate
+    the potential unintended consequences of these policies.
+
+What I've seen
+==============
+
+Bazman -> StaffKnex -> OnShift
+------------------------------
+
+One idea turned into the next.
+
+SpotHero
+--------
+
+We had a working product.  We needed marketing money.
+
+Where I found out that investing is not what I thought it was.  I
+thought I could call the people that had invested in OnShift and explain
+this new idea, show the demo, show our accounting, and then haggle.
+
+I couldn't get past the gatekeepers at one fund (JumpStart).
+
+Another fund politely attended my whole spiel.  Then said they were all
+out of money in this round.
+
+Bob Sopko wouldn't let me get to the next group.
+
+Regbinder -> Complion
+---------------------
+
+EHR Tutor (my friend's business)
+---------
+
+If you steal enough business from the big dogs, they will buy you out.
+
+Mike is REALLY autistic:  
+
+* threw a chair at a while after his project got canceled.
+
+* during a tech demo "please stop asking questions
+  because you wouldn't understand the answer"
+
+* started a company with his mother
+
+
+Decision Desk
+-------------
+
+Best illustration of what I call pathological VC funding.  Let's build a
+shitty knock off product that steals clients.
+
+Let's promise whatever they want to close the deal.
+
+
+Level 20
+--------
+
+Everything must be approved by corporate but we want you to act like a
+startup
+
+
+Getting to the executive tier at American Greetings
+---------------------------------------------------
+
+The bonus structure creates incentives to push employees toward burnout.
+
+Everyone has their price.  If I offer you a 150% salary bonus, you stop
+caring about your people talking about how the work stress is affecting
+their families.
+
+Mandatory weekends during photo works for developers.
+
+Realizing at Fannie Mae there was a cap on my career
+----------------------------------------------------
+
+Sorry but only folks from a certain pedigree can occupy these offices.
+
+
+Unionization in 21st century 
+----------------------------
+
+IFPTE might be most likely organization for software engineers.
+
+
+Questions for y'all
+===================
+
+1.  How is your high school class doing compared to their parents?  I
+    don't care about superstars.  I mean the median students.  Are they
+    better off, the same, or worse off than their parents a generation
+    ago?
+
+2.  Is there tension between creating shareholder value and DEI?  What
+    matters more?
+
+Last notes
+==========
+
+I'm assuming here I'm talking to the future people that run HR
+departments, so...
+
+Please stop saying learnings
+----------------------------
+
+Here are a list of other words:
+
+* insights
+* data
+* conclusions
+* hunches
+* decisions
+
+All of these provide more nuance.  You sound like Borat when you say
+Learnings.
+
+
+Ethan Applesauce Holmes
+-----------------------
+
+I met Ethan Holmes in Cleveland when he was 16 and he and I were in the
+same business pitch competition.
+
+He sold jars of applesauce at local farmer's markets.  He was looking
+for investment money.
+
+He sold a jar for $5 and made a buck off each jar.  It was all sourced
+from a couple of local orchards.
+
+Nobody at the local tech incubators wanted to talk to him.
+
+They funded projects like DecisionDesk or Complion.
+
+Conversation with executives at Progressive Insurance
+-----------------------------------------------------
+
+They said they had 50% annual turnover in their call centers.  It was
+tricky to make sure all the shifts were covered.
+
+I asked why they didn't target that turnover number.  They didn't want
+to.
+
+Call center jobs often won't let you go to the bathroom without clocking
+out.
+
+
+DEI: what I've seen work and not work
+-------------------------------------
+
+Executive summary: it's gonna take you pissing off your boss.  
+
+Example: a friend of mine is a felon.  I've gotten him hired twice and
+both times, bosses eventually find out about his criminal record.
+
+Both times, I've said if you fire Evan, I walk.  I've also said that
+I'll bet my paycheck on the quality of his work.  And I let him have it
+when I'm not happy.
+
+
+
