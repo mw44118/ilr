@@ -24,6 +24,12 @@ I (Matt) don't really know about these theories
     deleterious impact of workplace technological change and articulate
     the potential unintended consequences of these policies.
 
+My goals today
+--------------
+
+* Share moments in my work life that link up to these
+
+
 What I've seen
 ==============
 
@@ -31,6 +37,37 @@ Bazman -> StaffKnex -> OnShift
 ------------------------------
 
 One idea turned into the next.
+
+I wanted to make a product that made it easier for people to plan
+schedules.
+
+There's a bajillion ways to organize a schedule at a nursing home.  You
+might have 100 nurse assistants making about $13 / hour, and about 30
+nurses making $33/hour, and six or seven nurse managers making $44/hour.
+
+Regulations require a minimum amount of staff based on the count of
+patients in beds at midnight.
+
+It works out to stuff like this:  Based on the most recent patient
+census the day shift for floor one needs 6 nurses and 9 nurse assistants.  
+
+For the evening shift, floor one needs 2 nurses and 3 assistants
+(because the patients are asleep).
+
+This was all being done by hand with clip boards or spreadsheets.
+
+union shops handled last-minute openings differently.  Every customer
+could configure the system how they wanted but generally, the choices
+were:
+
+* give everyone a chance to apply for the shift or just a select few
+
+* check if this would be over time or regular pay and then rank people
+  applying for the open shift by their labor cost
+
+Roughly speaking, when the place had a union, vs didn't have a union,
+the shifts still got filled, but employers maybe paid more.
+
 
 SpotHero
 --------
