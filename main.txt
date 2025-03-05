@@ -14,7 +14,8 @@ Class goals from syllabus
     social groups and apply these theories to emerging workplace
     technologies.
 
-I (Matt) don't really know about these theories
+I (Matt) don't really know much about these theories, but I'll show you
+how I see technology spreading in
 
 3.  Identify potential points of conflict and change in workplace
     hierarchy given information about how a new technology is being used
@@ -141,6 +142,52 @@ Unionization in 21st century
 
 IFPTE might be most likely organization for software engineers.
 
+The streamliner product
+-----------------------
+
+Big retailers sell old products at big discounts in bulk to
+liquidators.
+
+My client had a team of people that unpacked truck loads of returned and
+discontinued or out of demand goods from retailers like Target, CVS,
+Walgreens, Amazon, other places.
+
+The unpackers followed guidelines like: 
+
+Expensive and lightweight items should be listed on online and shipped.
+
+A different set of goods should be sold in their own discount store
+(food, apparel, big toys, etc).
+
+Some items should be packed into different shipping containers.
+
+I made a system where the workers used bluetooth ear pieces and cheap
+android tablets.  They would search for any bar code they could, scan
+it, and the system would recommend a container to put the item into.
+
+I got there a few weeks later and five people were now doing the work
+that used to be like twenty people.
+
+The boss makes more money now.  But this is Massillon, Ohio.  There's no
+other jobs nearby for the people.
+
+Eventually the client stopped buying returned goods from Amazon because
+Amazon improved their own systems and the mix of items in containers
+changed away from stuff like wristwatches (very lucrative) and towards
+stuff like apparel.
+
+I saw first hand how producers of apparel and books  create about 2x to
+5x of the expected sales and plan to throw it out.
+
+This stuff takes weeks or months to get to market and the production
+systems are scheduled out, so the worst thing is for there to be
+customers looking for a product and having to wait.  Customers will
+pick a substitute.
+
+I saw a pile of copies of Sarah Palin's autobiography big enough to fill
+up my house.  
+
+The incremental cost of printing extra is almost zero.
 
 Questions for y'all
 ===================
@@ -215,5 +262,112 @@ Both times, I've said if you fire Evan, I walk.  I've also said that
 I'll bet my paycheck on the quality of his work.  And I let him have it
 when I'm not happy.
 
+What jobs are safe from AI?
+----------------------------
+
+Only the ones that aren't labeled as cost centers.  In other words,
+sales and marketing and the executive tier are safe.  Nothing else.
+
+AI is one part.  The other part is the gig economy.  Firms have been
+outsourcing accounting for decades.  Now contract CFOs are common.
+
+So if an AI can't do all of the job, maybe they can take away so much of
+the work that one person can now do 4x as much, and so they can work at
+several fires.
+
+AirCFO is a Cleveland startup that provides everything CFOs do.  They
+use AI / software in house along with a team of unemployed accountants.
+
+The part of your work that cannot be automated will be handled by a gig
+worker.
+
+Being a landlord is safe.
+
+Software as a service (SaaS)
+----------------------------
+
+This was a big paradigm shift in the industry.  Spreadsheet software
+used to be local, now it's often remotely hosted:
 
 
+* no resale market
+
+* firms can use open-source software without the viral license
+  kicking in, because they're not distributing the software
+
+* ongoing recurring revenue
+
+Who cares?
+
+Well, since investors saw a few happy wins, this became the only kind of
+business they would fund.
+
+
+The sales process for OnShift
+-----------------------------
+
+* Show the product to the nurses, nurse managers, administrators
+
+* tell nurse assistants this means more control over their schedule
+
+* tell nurses and nurse managers this makes scheduling easier
+
+* tell administrators they'll spend less on overtime because for every
+  open shift, they can see who is qualified, available, and interested*
+  in that shift, and see their hourly cost (including overtime)
+
+
+Nurse Assistants 
+----------------
+
+* $17/hour in Ohio (from carelistings.com)
+
+* help patients dress, feed, bathe themselves
+
+* check vital signs like heart rate and blood pressure
+
+* work can be physically strenuous, like helping people with mobility
+  limimations
+
+* work can be very messy
+
+* In my experience in Ohio, most employees are women of color or eastern
+  European immigrants.
+ 
+* this job requires the patience of a saint.
+
+* Turnover is very high.
+
+* Employers often hire unskilled employees and pay for their training
+  and certification to put them to work.
+
+* Some CNAs work for staffing firms  that send them to nursing homes.
+
+Nurses
+------
+
+* $38/hour in Ohio for registered nurses (again, carelistings.com)
+
+* "Hours per resident day" (HPRD) sets a minimum amount of scheduled
+  nursing care per patient.
+
+* In Ohio, the regulation is 2.5 HPRD, then a facility with 40 patients
+  as of midnight would need to have 100 hours of nurses scheduled in
+  that day, so, 
+
+* I almost never had a client, regardless of patient SES, that bumped
+  this up from the legal minimums.
+
+
+
+Please be gentle
+----------------
+
+Assuming you go into the careers I read about on your website for this
+program, y'all are likely to influence the quality of life of millions
+of people over lifetimes.
+
+Obviously, efficiency matters.
+
+However, what kind of a civilization are we, really, if we don't
+prioritize the quality of life of the people that work for us?
