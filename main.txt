@@ -30,32 +30,23 @@ My goals today
 
 * Share moments in my work life that link up to these
 
+* Isolate my experience from my opinion
+
+* Sway you to be kind corporate masters
 
 What I've seen
 ==============
 
-Bazman -> StaffKnex -> OnShift
-------------------------------
+OnShift
+-------
 
-One idea turned into the next.
+There's a bajillion ways to organize a schedule at a nursing home.  
 
-I wanted to make a product that made it easier for people to plan
-schedules.
-
-There's a bajillion ways to organize a schedule at a nursing home.  You
-might have 100 nurse assistants making about $13 / hour, and about 30
+You might have 100 nurse assistants making about $13 / hour, and about 30
 nurses making $33/hour, and six or seven nurse managers making $44/hour.
 
 Regulations require a minimum amount of staff based on the count of
-patients in beds at midnight.
-
-It works out to stuff like this:  Based on the most recent patient
-census the day shift for floor one needs 6 nurses and 9 nurse assistants.  
-
-For the evening shift, floor one needs 2 nurses and 3 assistants
-(because the patients are asleep).
-
-This was all being done by hand with clip boards or spreadsheets.
+patients in beds at midnight (hours per resident day, or HPRD).
 
 union shops handled last-minute openings differently.  Every customer
 could configure the system how they wanted but generally, the choices
@@ -69,6 +60,16 @@ were:
 Roughly speaking, when the place had a union, vs didn't have a union,
 the shifts still got filled, but employers maybe paid more.
 
+I was fully vested in my founder's shares in 2009.  By 2010 it was
+obvious the company was going in a direction I didn't like, so I
+quit, but I left with about 20% equity in the company.
+
+Private equity made a partial investment in OnShift in 2018. In
+2022 they bought the company and folded the whole thing into their
+online "Shift Key" product.  
+
+All my friends were laid off and all the tech jobs are now in Poland.
+The product we built no longer exists.
 
 SpotHero
 --------
@@ -89,35 +90,94 @@ Bob Sopko wouldn't let me get to the next group.
 Regbinder -> Complion
 ---------------------
 
+Hospitals run drug and medical device trials by testing the drugs and
+devices out on patients and then keeping records.
+
+The founder, Rick Arlowe, was a medical student working on a drug trial
+at Cleveland Clinic and was amazed to discover that literal three-ring
+binders were used to track information.
+
 EHR Tutor (my friend's business)
----------
+--------------------------------
 
-If you steal enough business from the big dogs, they will buy you out.
+My friend Mike's mom is a nurse.  Among other jobs, she taught part time
+at the community college.  She complained to Mike that there was no way
+for her to train her students on how to use electronic health record
+systems.
 
-Mike is REALLY autistic:  
+So Mike wrote a web app that wasn't a real EHR system, but it was a
+simplified version.  They sold logins to the system to colleges and high
+schools.
 
-* threw a chair at a while after his project got canceled.
-
-* during a tech demo "please stop asking questions
-  because you wouldn't understand the answer"
-
-* started a company with his mother
+About five years after starting on the project, a big textbook publisher
+bought the company on the condition that Mike worked with them for a
+year and helped merge his product into their online portal.
 
 
-Decision Desk
--------------
+
+
+Decision Desk (another friend's company)
+----------------------------------------
 
 Best illustration of what I call pathological VC funding.  Let's build a
 shitty knock off product that steals clients.
 
 Let's promise whatever they want to close the deal.
 
+They hit $250k in ARR within a few years after they finished their
+prototype.
+
+And if they hadn't taken investment money early, they could have been
+four best friends that could have been very successful.
+
+But they took VC money.  VCs need you to grow.  They want you to promise
+hockey stick growth.
+
+So they hired some sales people rather than doing sales themselves.
+Their salespeople went out, demo'd the product, came back, said they
+didn't have enough features to sell it.  
+
+So then the sales people started telling customers what was going to be
+coming up in the next few upgrades of the site.
+
+Then they got some big million dollar / year contracts.  And then they
+had like 6 months to build out the promises.
 
 Level 20
 --------
 
-Everything must be approved by corporate but we want you to act like a
-startup
+Progressive Insurance is a big ol company, and they target low and
+moderate income drivers.
+
+The automotive insurance industry faces risks:
+
+* self-driving cars
+* ride share services
+* new risk models no longer use actuarial systems
+
+Progressive is making tons of cash now, and is buying up related
+businesses.
+
+They're also funding new product development.
+
+The problem that I've seen (3x now) when really big companies start
+incubators is that they cannot keep their hands off.
+
+We worked on an application that let people set goals for saving money
+and categorize their spending.
+
+We had to get every post to Instagram approved by the legal department,
+and they would never just approve it.  They would make arguable
+irrelevant changes.
+
+That place has burned through millions of dollars and hasn't launched
+anything successful.
+
+The skills that get you to the top in big organizations are not the same
+skills as starting new ideas.
+
+You need to be a savvy politician to survive in a big organization.  You
+don't need to be successful at your work.
 
 
 Getting to the executive tier at American Greetings
@@ -131,11 +191,16 @@ their families.
 
 Mandatory weekends during photo works for developers.
 
+I saw my friends work ridiculous hours and then the whole thing was a
+flop anyhow.
+
+I saw families stressed out. 
+
+
 Realizing at Fannie Mae there was a cap on my career
 ----------------------------------------------------
 
 Sorry but only folks from a certain pedigree can occupy these offices.
-
 
 Unionization in 21st century 
 ----------------------------
@@ -249,7 +314,6 @@ to.
 Call center jobs often won't let you go to the bathroom without clocking
 out.
 
-
 DEI: what I've seen work and not work
 -------------------------------------
 
@@ -351,23 +415,63 @@ Nurses
 * "Hours per resident day" (HPRD) sets a minimum amount of scheduled
   nursing care per patient.
 
-* In Ohio, the regulation is 2.5 HPRD, then a facility with 40 patients
-  as of midnight would need to have 100 hours of nurses scheduled in
-  that day, so, 
+* In Ohio, the regulation is 2.5 HPRD. 
 
-* I almost never had a client, regardless of patient SES, that bumped
-  this up from the legal minimums.
-
+* 40 patients as of midnight requires 100 nurse-hour schedules
 
 
 Please be gentle
 ----------------
 
 Assuming you go into the careers I read about on your website for this
-program, y'all are likely to influence the quality of life of millions
-of people over lifetimes.
+ILR program, y'all are likely to influence the quality of life of
+millions of people over your lifetimes.
 
 Obviously, efficiency matters.
 
 However, what kind of a civilization are we, really, if we don't
 prioritize the quality of life of the people that work for us?
+
+Bonus Content
+-------------
+
+Mythical Man Month
+------------------
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+
+"Adding manpower to a late software project makes it later"
+
+"the possibility of measuring useful work in man-months is a myth"
+
+Mythical Man Month, 1975
+
+This was a constant source of friction between hardworking programmers
+and diligent managers, because fundamentally, the only lever managers
+have to deal with a late project is to add more people.
+
+The Organization Man
+--------------------
+
+https://en.wikipedia.org/wiki/The_Organization_Man
+
+
+W. Edwards Deming
+-----------------
+
+What gets measured becomes what counts
+
+
+
+
+
+
+
+
+
+See also
+--------
+
+The Organization Man by Walter H Whyte
+
+Wikipede
