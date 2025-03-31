@@ -28,41 +28,34 @@ My goals today
 
 * Isolate my experience from my opinion
 
-* Sway you to be kind bosses even at the cost of your own career
+* Sway you to be kind bosses, because the invisible hand is a mofo
 
 Patterns
 ========
 
-* I worked on several Software as a Service (SaaS) startups
+* I cofounded or worked on several Software as a Service (SaaS) startups
+  where we wrote technology to entirely automate or simplify work
 
-* B2B means "business to business" (like google apps or Amazon Web
-  Services) vs B2C "business to consumer" (like google search or
-  amazon.com)
+* Sales pitch at first is "this will make your least favorite part of
+  your job go away"
 
-* Sales pitch usually like "replace your high cost employees with our
-  technology and outsourcing"
+* Later, sales pitch is more like "replace your high cost employees with
+  our technology and low-cost, lower-skilled workers."
 
 * VC investors want "hockey stick" growth, not viable "lifestyle"
-  businesses
-
+  businesses, so startups are pressured to grow aggressively even if it
+  is risky
 
 OnShift
 =======
 
-* Started writing code nights and weekends in 2006.
+* Find somebody to work a shift by blasting texts to qualified and
+  available employees
 
-* In 2007, after we got a prototype and a few customers, we got $250k
-  from local angels and I quit day job 
+* By 2009, software help managers plan / maintain / update / revise
+  schedules
 
-* first version helped managers find people to fill last-minute openings
-
-* Two years later, next I designed a system to plan schedules.  
-
-* Maintaining  a schedule for a large facility with hundreds of
-  employees is a very big task.  Imagine weekly new hires, terminations,
-  approved time off, last-minute calloffs, etc
-
-* Customers were mostly skilled nursing facilities (SNFs) and hospitals
+* Most customers were skilled nursing facililities (SNFs) or hospitals.
 
 * Hours per resident day (HPRD) is a metric that says roughly "if you
   have this many patients in your facility as of midnight, you have to
@@ -74,15 +67,8 @@ OnShift
 * The system, among other things, found people to cut when scheduled
   hours exceeded HPRD regulations.
 
-* Employers LOVED this
-
-* Imagine getting a text while you're on the bus to work that you don't
-  need to come in.
-
-* System caught instances of employees clocking out significantly after
-  their schedule
-
-* Over time, I found myself disgusted with the direction of the product
+* Employers LOVED it.  We could usually say the product would pay for
+  itself by identifying "extra" scheduled labor beyond legal minimums
 
 * By 2010 it was obvious the company was going in a direction I didn't
   like, so I quit, but I left with about 20% equity in the company.
@@ -91,20 +77,19 @@ OnShift
   they bought the company and folded the whole thing into their online
   "Shift Key" product.  
 
-All my friends were laid off and all the tech jobs are now in Poland.
-The product we built no longer exists, I lost some friends, and my
-partner had a heart attack.  But my house is paid off.
+* All my friends were laid off and all the tech jobs are now in Poland.
+  The product we built no longer exists, I lost some friends, and my
+  partner had a heart attack.  But my house is paid off.
 
 
 Relevance to y'all
 ------------------
 
 * A product that improves the quality of life of workers is not easy to
-  sell if workers aren't involved in the decision making process
+  sell if workers aren't really involved in the decision making process
 
 * There is a deep chasm separating health care providers (doctors,
-  nurses, nurse assistants, etc) and health care facility owners 
-  They seem to live in different worlds and have different values
+  nurses, nurse assistants, etc) and health care facility owners.
 
 SpotHero
 --------
@@ -368,8 +353,13 @@ out.
 SofaConcerts
 ------------
 
-A marketplace app that musicians find gigs
+A marketplace app that musicians find gigs.  You're a small (<200 person
+capacity) venue, so you make an account.
 
+Musicians now 
+
+The site processes the payments, holds money in escrow, so musicians get
+paid.
 
 
 What jobs are safe from AI?
