@@ -24,51 +24,101 @@ Class goals from syllabus
 My goals today
 ==============
 
-* Share moments in my work life that link up to these
+* Share moments from my work life 
+
+* Talk about how I see them linking to these class goals
 
 * Isolate my experience from my opinion
 
 * Sway you to be kind bosses, because the invisible hand is a mofo
 
+Me
+==
+
+* I got a degree in Economics from University of Houston in 1998
+
+* Worked in DC a research assistant
+
+* Since like 2006, I cofounded or worked on several startups.
+
+* Some were Software as a Service (SaaS) startups focusing on workflow
+  automation or worker productivity or regulation compliance
+
+* I'm not rich, so take ingest the appropriate amount of NaCl
+
+* I've seen how software products alter people's lives, for good and
+  evil
+
 Patterns
 ========
 
-* I cofounded or worked on several Software as a Service (SaaS) startups
-  where we wrote technology to entirely automate or simplify work
+* Initially, the prototype has to be loved by the people that are using
+  it
 
-* Sales pitch at first is "this will make your least favorite part of
-  your job go away"
+* Sales pitch for version 1.0 is to small customers, and it goes
+  something like "this will make your least favorite part of your job go
+  away"
 
-* Later, sales pitch is more like "replace your high cost employees with
-  our technology and low-cost, lower-skilled workers."
+* This is my favorite part because it involves making people's lives
+  better
 
-* VC investors want "hockey stick" growth, not viable "lifestyle"
-  businesses, so startups are pressured to grow aggressively even if it
-  is risky
+* making a product people want to use only matters when people have
+  autonomy
+
+* Once you start selling to big customers, employee buy-in matters less
+
+* Big customer sales pitch is more like "replace your high cost
+  employees with our technology and low-cost, lower-skilled workers."
+
+* VC investors want "hockey stick" growth
+
+  "In the derogatory sense, a business started with the intention of
+  becoming a startup, but which instead becomes a smaller business is
+  often referred to as a lifestyle business by investors or other
+  detractors."
+
+  https://en.wikipedia.org/wiki/Lifestyle_business
+
+* You have to land big customers to get that hockey stick growth
+
+* Big customers care about profits (boost revenue or cut costs)
 
 OnShift
 =======
 
-* Find somebody to work a shift by blasting texts to qualified and
-  available employees
+* Prototype in 2006: find somebody to work a shift by blasting texts to
+  qualified and available employees
 
-* By 2009, software help managers plan / maintain / update / revise
+* $250k angel investment in 2007 meant my partner and I could quit day
+  jobs
+
+* By 2009, the software help managers plan / maintain / update / revise
   schedules
 
 * Most customers were skilled nursing facililities (SNFs) or hospitals.
 
 * Hours per resident day (HPRD) is a metric that says roughly "if you
   have this many patients in your facility as of midnight, you have to
-  have this many hours scheduled."
+  have at least this many hours scheduled."
 
 * Think like teacher:student ratios in class rooms, but nurse:patient
   instead
 
+* Ohio has a 2.5 HPRD, so each patient is promised 2.5 hours of nursing
+  care that day.
+
+* One nurse working five hours can take care of two patients.
+
+* 100 patients in beds as of midnight means you need 250 scheduled hours
+  for that day.  If your nurses work 12-hour shifts, you need 21 nurses.
+
 * The system, among other things, found people to cut when scheduled
   hours exceeded HPRD regulations.
 
-* Employers LOVED it.  We could usually say the product would pay for
-  itself by identifying "extra" scheduled labor beyond legal minimums
+* 
+
+* Employers LOVED it.  Product would pay for itself by identifying
+  "extra" scheduled labor beyond legal minimums
 
 * By 2010 it was obvious the company was going in a direction I didn't
   like, so I quit, but I left with about 20% equity in the company.
@@ -79,8 +129,9 @@ OnShift
 
 * All my friends were laid off and all the tech jobs are now in Poland.
   The product we built no longer exists, I lost some friends, and my
-  partner had a heart attack.  But my house is paid off.
+  partner had a heart attack (and lived).  
 
+* My 20% equity was < 0.1% at the acquisition.
 
 Relevance to y'all
 ------------------
@@ -91,22 +142,31 @@ Relevance to y'all
 * There is a deep chasm separating health care providers (doctors,
   nurses, nurse assistants, etc) and health care facility owners.
 
+
 SpotHero
---------
+========
 
 "Why can't I list my driveway on a website for people that need a place
 to park for the night?"
 
 Marketplace app for parking.  Launched in Chicago. 
 
+Less directly related to workflow, because this was mostly a consumer
+product.
+
 I built the prototype and got paid in IOUs redeemable for future income.
 
 We were making a little money, but adoption was SLOW.  It took several
 years before they paid me back.
 
-An early customer was a garage that shut down on Sundays.  We offered to
-pay the price of the attendants being there and we sold parking tickets
-in advance.
+An early customer was a garage that shut down on Sundays.  We paid for
+the attendants being there and we sold parking tickets in advance.
+
+We took like a 20% fee off every spot run through the system.  We gave
+cash bonuses to parking lot attendants to be friendly and promote the
+product to visitors.
+
+I passed on equity on this one and of course that was a mistake.
 
 Relevance
 ---------
@@ -152,8 +212,9 @@ Relevancy to ILR
 * We kinda forced a single workflow on hospitals and since it was so
   much better in some ways, they tolerated some of the warts
 
+
 EHR Tutor (my friend's business)
---------------------------------
+================================
 
 My friend Mike's mom is a nurse.  Among other jobs, she taught part time
 at the community college.  She complained to Mike that there was no way
@@ -175,18 +236,20 @@ Relevance to ILR
 
 * Larger firms acquire and then destroy rivals rather than innovate
 
-* Low cost developers without subject matter expertise can ruin a
-  product
+Decision Desk
+=============
 
-Decision Desk (another friend's company)
-----------------------------------------
+The process of applying to musical conservatories, art schools, and theater
+programs involves submitting samples of work.
+
+
+
+
 
 There's a fairy tale about a goose that lays a golden egg every day, and
 some people cut it open to get all the eggs at once, and of course, it
 doesn't work.
 
-The process of applying to musical conservatories, art schools, and theater
-programs involves submitting samples of work.
 
 The produc
 
@@ -455,7 +518,6 @@ Nurses
 
 * 40 patients as of midnight requires 100 nurse-hour schedules
 
-
 Please be gentle
 ----------------
 
@@ -496,6 +558,16 @@ iconoclasts.
 W. Edwards Deming
 -----------------
 
-What gets measured becomes what counts
+"Fear invites wrong figures. Bearers of bad news fare badly. To keep his
+job, anyone may present to his boss only good news."
 
+W. Edwards Deming, page 94, The New Economics
+
+https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/
+
+
+"Remove barriers that stand between the hourly worker and his right to
+pride of workmanship."
+
+point #12 from his  
 
