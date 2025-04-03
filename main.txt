@@ -35,10 +35,6 @@ My goals today
 Me
 ==
 
-* I got a degree in Economics from University of Houston in 1998
-
-* Worked in DC a research assistant
-
 * Since like 2006, I cofounded or worked on several startups.
 
 * Some were Software as a Service (SaaS) startups focusing on workflow
@@ -63,7 +59,7 @@ Patterns
   better
 
 * making a product people want to use only matters when people have
-  autonomy
+  autonomy and purchasing power
 
 * Once you start selling to big customers, employee buy-in matters less
 
@@ -79,9 +75,11 @@ Patterns
 
   https://en.wikipedia.org/wiki/Lifestyle_business
 
-* You have to land big customers to get that hockey stick growth
+* For b2b businesses, you need big customers
 
-* Big customers care about profits (boost revenue or cut costs)
+* Big customers mostly care about profits (boost revenue or cut costs)
+
+* Products go from being useful to becoming spyware
 
 OnShift
 =======
@@ -115,236 +113,158 @@ OnShift
 * The system, among other things, found people to cut when scheduled
   hours exceeded HPRD regulations.
 
-* 
-
-* Employers LOVED it.  Product would pay for itself by identifying
+* We claimed that the product would pay for itself by identifying
   "extra" scheduled labor beyond legal minimums
 
-* By 2010 it was obvious the company was going in a direction I didn't
-  like, so I quit, but I left with about 20% equity in the company.
+* We added features meant to reduce labor costs:
 
-* Private equity made a partial investment in OnShift in 2018. In 2022
-  they bought the company and folded the whole thing into their online
-  "Shift Key" product.  
+    * Reports showing people that clock in early or clock out late
 
-* All my friends were laid off and all the tech jobs are now in Poland.
-  The product we built no longer exists, I lost some friends, and my
-  partner had a heart attack (and lived).  
+    * Discourage giving shifts to high-wage employees when lower-cost
+      employees were available
 
-* My 20% equity was < 0.1% at the acquisition.
+    * Require approval for overtime scheduling
 
 Relevance to y'all
 ------------------
 
-* A product that improves the quality of life of workers is not easy to
-  sell if workers aren't really involved in the decision making process
+A product that improves the quality of life of workers is not easy to
+sell if workers aren't really involved in the decision making process.
 
-* There is a deep chasm separating health care providers (doctors,
-  nurses, nurse assistants, etc) and health care facility owners.
+There is a deep chasm separating health care providers (doctors, nurses,
+nurse assistants, etc) and health care facility owners.  
 
+The human experience of medical care doesn't show up in the financial
+reports.
 
 SpotHero
 ========
 
-"Why can't I list my driveway on a website for people that need a place
-to park for the night?"
+* "Why can't I list my driveway on a website for people that need a place
+  to park for the night?" (quote from founder)
 
-Marketplace app for parking.  Launched in Chicago. 
+* Marketplace app for parking.  Launched in Chicago.  Allows you to
+  reserve a parking spot, sort of like a hotel room.
 
-Less directly related to workflow, because this was mostly a consumer
-product.
+* An early customer was a garage that shut down on Sundays because of
+  perceived low deman.  
 
-I built the prototype and got paid in IOUs redeemable for future income.
-
-We were making a little money, but adoption was SLOW.  It took several
-years before they paid me back.
-
-An early customer was a garage that shut down on Sundays.  We paid for
-the attendants being there and we sold parking tickets in advance.
-
-We took like a 20% fee off every spot run through the system.  We gave
-cash bonuses to parking lot attendants to be friendly and promote the
-product to visitors.
-
-I passed on equity on this one and of course that was a mistake.
+* We pre-paid for the attendants to be there and we sold parking
+  tickets in advance on our site, gambling we could cover their costs.
 
 Relevance
 ---------
 
-Technology BOOSTED demand for labor by offering new markets. Parking lot
-attendants were happy to get more shifts.
+* Reservations for parking meant attendants got extra shifts sometimes
 
-We needed them to love our product so that when people used SpotHero to
-rent a spot, that attendant would happily explain to the customer how it
-all worked.
+* At first, new technology boosted demand for attendants
 
-Regbinder -> Complion
----------------------
+* Later, parking lot attendants often were replaced
 
-Hospitals run drug and medical device trials by testing the drugs and
-devices out on patients and then keeping records.
+Complion
+========
 
-As the 2010s, many of these drug trials used literal binders in hallway
-file cabinits to track studies.
+* To run a drug or medical device trial, you have to keep a lot of
+  paperwork, like:
 
-To run a drug or medical device trial, you have to keep a lot of
-paperwork, like:
+    * tracking patient consent, perhaps with regular renewals
 
-* keep documents tracking all your patients consen, perhaps with regular
-  renewals
+    * track patients joining and leaving 
 
-* handle patients join and leave
+    * protocols used in the study may change and changes need to be
+      documented
 
-* protocols used in the study may change and changes need to be
-  documented
+    * verify credentials of clinicians and facilities
 
-* Verify credentials or licenses of clinicians and facilities involved
+* As of the 2010s, many of these drug trials used literal 3-ring binders
+  in hallway file cabinets to track studies.
 
-* Private equity bought Complion and other document management systems
-  as part of market roll up
+* To build it, we interviewed as many clinical trial coordinators as we
+  could 
+
+* We built a "one size fits most" product with built-in checklists and
+  guides 
+
+* Our product became "the way to run drug trials" at a lot of hospitals
+
+* PE acquired Complion, combined competing products into one product
 
 Relevancy to ILR
 ----------------
 
-* Technology reduced people needed for the same work.  Clinicians could
-  use the software directly and clerks weren't necessary.
+* Clinical Coordinators could now run vastly more trials. Does that mean
+  more wages or layoffs?
 
-* We kinda forced a single workflow on hospitals and since it was so
-  much better in some ways, they tolerated some of the warts
+* We created a single workflow and since it was so much better in some
+  ways, people adopted it.
 
+* There are people run thinking that the way our system works is now the
+  official way to do it.
 
-EHR Tutor (my friend's business)
-================================
+* But we designed this system based on what we could get done quick, so
+  we could sell it.
 
-My friend Mike's mom is a nurse.  Among other jobs, she taught part time
-at the community college.  She complained to Mike that there was no way
-for her to train her students on how to use electronic health record
-systems.
+* Founder of Complion sent me this text recently:
 
-So Mike wrote a web app that wasn't a real EHR system, but it was a
-simplified version.  They sold logins to the system to colleges and high
-schools.
+    "...a software industrial complex has changed how companies are run
+    (usually for the worst like silos and constraining org chart
+    structures, particularly due to enterprise software)"
 
-About five years after starting on the project, a big textbook publisher
-bought the company on the condition that Mike worked with them for a
-year and helped merge his product into their online portal.
+* In other words, new technology can codify silos into existence
 
-Then he quit because of the frustration of watching them ruin his baby.
-
-Relevance to ILR
-----------------
-
-* Larger firms acquire and then destroy rivals rather than innovate
+* Just because I'm good at JavaScript, I'm telling PhD researchers how
+  to do their job.  Is this valid?
 
 Decision Desk
 =============
 
-The process of applying to musical conservatories, art schools, and theater
-programs involves submitting samples of work.
+* Applying to musical conservatories, art schools, and theater programs
+  involves submitting samples of work (e.g., concert footage).
 
+* Professors review the work and maybe admit them.
 
+* DecisionDesk was a software platform to replace a very messy and
+  error-prone process
 
+* Pretty quick, the founders signed up a small number of very happy
+  customers.
 
+* After VC investment, DecisionDesk started work on a new product and an
+  aggressive sales campaign.
 
-There's a fairy tale about a goose that lays a golden egg every day, and
-some people cut it open to get all the eggs at once, and of course, it
-doesn't work.
+* Larger universities signed up and revenue spiked!
 
+* Every new contract came with so many new feature requests that it
+  killed margins
 
-The produc
+* The app now worked differently for different customers.  Customers
+  needed more help using it.  Again, this also killed margins.
 
-They hit $250k in ARR within a few years after they finished their
-prototype.
+* Customer churn increased, usually due to bugs in new features
 
-And if they hadn't taken investment money early, they could have been
-four best friends that could have been very successful.
+* We couldn't raise more money and costs were way above revenue, so it
+  shut down
 
-But they took VC money.  VCs need you to grow.  They want you to promise
-hockey stick growth.
+Relevancy
+---------
 
-So they hired some sales people rather than doing sales themselves.
-Their salespeople went out, demo'd the product, came back, said they
-didn't have enough features to sell it.  
+* Processing applications for music school was a complex, crooked
+  process
 
-So then the sales people started telling customers what was going to be
-coming up in the next few upgrades of the site.
+* Sometimes there is no obvious "one size fits all solution"
 
-Then they got some big million dollar / year contracts.  And then they
-had like 6 months to build out the promises.
+* Workflow automation is not easy when people have fundamentally
+  different methods
 
-Level 20
---------
+Streamliner
+============
 
-Progressive Insurance is a big ol company, and they target low and
-moderate income drivers.
+This is a product I built for a client to use in-house.  My client is a
+liquidator. 
 
-The automotive insurance industry faces risks:
-
-* self-driving cars
-* ride share services
-* new risk models no longer use actuarial systems
-
-Progressive is making tons of cash now, and is buying up related
-businesses.
-
-They're also funding new product development.
-
-The problem that I've seen (3x now) when really big companies start
-incubators is that they cannot keep their hands off.
-
-We worked on an application that let people set goals for saving money
-and categorize their spending.
-
-We had to get every post to Instagram approved by the legal department,
-and they would never just approve it.  They would make arguable
-irrelevant changes.
-
-That place has burned through millions of dollars and hasn't launched
-anything successful.
-
-The skills that get you to the top in big organizations are not the same
-skills as starting new ideas.
-
-You need to be a savvy politician to survive in a big organization.  You
-don't need to be successful at your work.
-
-
-Getting to the executive tier at American Greetings
----------------------------------------------------
-
-The bonus structure creates incentives to push employees toward burnout.
-
-Everyone has their price.  If I offer you a 150% salary bonus, you stop
-caring about your people talking about how the work stress is affecting
-their families.
-
-Mandatory weekends during photo works for developers.
-
-I saw my friends work ridiculous hours and then the whole thing was a
-flop anyhow.
-
-I saw families stressed out. 
-
-
-Realizing at Fannie Mae there was a cap on my career
-----------------------------------------------------
-
-Sorry but only folks from a certain pedigree can occupy these offices.
-
-Unionization in 21st century 
-----------------------------
-
-IFPTE might be most likely organization for software engineers.
-
-The streamliner product
------------------------
-
-Big retailers sell old products at big discounts in bulk to
-liquidators.
-
-My client had a team of people that unpacked truck loads of returned and
-discontinued or out of demand goods from retailers like Target, CVS,
-Walgreens, Amazon, other places.
+He has a bunch of warehouses in central Ohio.  He keeps a team of people
+that unpack truck loads of returned and discontinued or out of demand
+goods from retailers like Target, CVS, Walgreens, Amazon, other places.
 
 The unpackers followed guidelines like: 
 
@@ -352,6 +272,7 @@ Expensive and lightweight items should be listed on online and shipped.
 
 A different set of goods should be sold in their own discount store
 (food, apparel, big toys, etc).
+n
 
 Some items should be packed into different shipping containers.
 
@@ -383,152 +304,21 @@ up my house.
 
 The incremental cost of printing extra is almost zero.
 
-
-Ethan Applesauce Holmes
------------------------
-
-I met Ethan Holmes in Cleveland when he was 16 and he and I were in the
-same business pitch competition.
-
-He sold jars of applesauce at local farmer's markets.  He was looking
-for investment money.
-
-He sold a jar for $5 and made a buck off each jar.  It was all sourced
-from a couple of local orchards.
-
-Nobody at the local tech incubators wanted to talk to him.
-
-They funded projects like DecisionDesk or Complion.
-
-
-Conversation with executives at Progressive Insurance
------------------------------------------------------
-
-They said they had 50% annual turnover in their call centers.  It was
-tricky to make sure all the shifts were covered.
-
-I asked why they didn't target that turnover number.  They didn't want
-to.
-
-Call center jobs often won't let you go to the bathroom without clocking
-out.
-
 SofaConcerts
-------------
+============
 
 A marketplace app that musicians find gigs.  You're a small (<200 person
 capacity) venue, so you make an account.
 
-Musicians now 
+Musicians now can plan tours m
 
 The site processes the payments, holds money in escrow, so musicians get
-paid.
+paid (big problem).
 
+Most venues get about 3 applications for every open spot they're looking
+to fill.
 
-What jobs are safe from AI?
-----------------------------
-
-Only the ones that aren't labeled as cost centers.  In other words,
-sales and marketing and the executive tier are safe.  Nothing else.
-
-AI is one part.  The other part is the gig economy.  Firms have been
-outsourcing accounting for decades.  Now contract CFOs are common.
-
-So if an AI can't do all of the job, maybe they can take away so much of
-the work that one person can now do 4x as much, and so they can work at
-several fires.
-
-AirCFO is a Cleveland startup that provides everything CFOs do.  They
-use AI / software in house along with a team of unemployed accountants.
-
-The part of your work that cannot be automated will be handled by a gig
-worker.
-
-Being a landlord is safe.
-
-Software as a service (SaaS)
-----------------------------
-
-This was a big paradigm shift in the industry.  Spreadsheet software
-used to be local, now it's often remotely hosted:
-
-
-* no resale market
-
-* firms can use open-source software without the viral license
-  kicking in, because they're not distributing the software
-
-* ongoing recurring revenue
-
-Who cares?
-
-Well, since investors saw a few happy wins, this became the only kind of
-business they would fund.
-
-
-The sales process for OnShift
------------------------------
-
-* Show the product to the nurses, nurse managers, administrators
-
-* tell nurse assistants this means more control over their schedule
-
-* tell nurses and nurse managers this makes scheduling easier
-
-* tell administrators they'll spend less on overtime because for every
-  open shift, they can see who is qualified, available, and interested*
-  in that shift, and see their hourly cost (including overtime)
-
-
-Nurse Assistants 
-----------------
-
-* $17/hour in Ohio (from carelistings.com)
-
-* help patients dress, feed, bathe themselves
-
-* check vital signs like heart rate and blood pressure
-
-* work can be physically strenuous, like helping people with mobility
-  limimations
-
-* work can be very messy
-
-* In my experience in Ohio, most employees are women of color or eastern
-  European immigrants.
- 
-* this job requires the patience of a saint.
-
-* Turnover is very high.
-
-* Employers often hire unskilled employees and pay for their training
-  and certification to put them to work.
-
-* Some CNAs work for staffing firms  that send them to nursing homes.
-
-Nurses
-------
-
-* $38/hour in Ohio for registered nurses (again, carelistings.com)
-
-* "Hours per resident day" (HPRD) sets a minimum amount of scheduled
-  nursing care per patient.
-
-* In Ohio, the regulation is 2.5 HPRD. 
-
-* 40 patients as of midnight requires 100 nurse-hour schedules
-
-Please be gentle
-----------------
-
-Assuming you go into the careers I read about on your website for this
-ILR program, y'all are likely to influence the quality of life of
-millions of people over your lifetimes.
-
-Obviously, efficiency matters.
-
-However, what kind of a civilization are we, really, if we don't
-prioritize the quality of life of the people that work for us?
+Pandemic bankrupted so many small venues 
 
 Bonus Content
 =============
@@ -544,16 +334,8 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 
 Mythical Man Month, 1975
 
-Fundamentally, the only lever managers have to deal with a late project
-is to add more people.
-
-The Organization Man
---------------------
-
-https://en.wikipedia.org/wiki/The_Organization_Man
-
-Corporations prefer good enough interchangeable workers vs brilliant
-iconoclasts.
+However, fundamentally, the only lever managers have to deal with a late
+project is to add more people.
 
 W. Edwards Deming
 -----------------
@@ -565,9 +347,8 @@ W. Edwards Deming, page 94, The New Economics
 
 https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/
 
-
 "Remove barriers that stand between the hourly worker and his right to
 pride of workmanship."
 
-point #12 from his  
-
+Give somebody a chance to take pride in their work, and they'll surprise
+you.

@@ -1,0 +1,121 @@
+Compost
++++++++
+
+Level 20
+========
+
+Progressive Insurance is a big ol company, and they target low and
+moderate income drivers.
+
+The automotive insurance industry faces risks:
+
+* self-driving cars
+* ride share services
+* new risk models no longer use actuarial systems
+
+Progressive is making tons of cash now, and is buying up related
+businesses.
+
+They're also funding new product development.
+
+The problem that I've seen (3x now) when really big companies start
+incubators is that they cannot keep their hands off.
+
+We worked on an application that let people set goals for saving money
+and categorize their spending.
+
+We had to get every post to Instagram approved by the legal department,
+and they would never just approve it.  They would make arguable
+irrelevant changes.
+
+That place has burned through millions of dollars and hasn't launched
+anything successful.
+
+The skills that get you to the top in big organizations are not the same
+skills as starting new ideas.
+
+You need to be a savvy politician to survive in a big organization.  You
+don't need to be successful at your work.
+
+Getting to the executive tier at American Greetings
+---------------------------------------------------
+
+The bonus structure creates incentives to push employees toward burnout.
+
+Everyone has their price.  If I offer you a 150% salary bonus, you stop
+caring about your people talking about how the work stress is affecting
+their families.
+
+Mandatory weekends during photo works for developers.
+
+I saw my friends work ridiculous hours and then the whole thing was a
+flop anyhow.
+
+I saw families stressed out. 
+
+
+Realizing at Fannie Mae there was a cap on my career
+====================================================
+
+Sorry but only folks from a certain pedigree can occupy these offices.
+
+Unionization in 21st century 
+============================
+
+IFPTE might be most likely organization for software engineers.
+
+Conversation with executives at Progressive Insurance
+=====================================================
+
+They said they had 50% annual turnover in their call centers.  It was
+tricky to make sure all the shifts were covered.
+
+I asked why they didn't target that turnover number.  They didn't want
+to.
+
+Call center jobs often won't let you go to the bathroom without clocking
+out.
+
+EHR Tutor
+=========
+
+My friend Mike's mom is a nurse.  Among other jobs, she taught part time
+at the community college.  She complained to Mike that there was no way
+for her to train her students on how to use electronic health record
+systems.
+
+So Mike wrote a web app that wasn't a real EHR system, but it was a
+simplified version.  They sold logins to the system to colleges and high
+schools.
+
+About five years after starting on the project, a big textbook publisher
+bought the company on the condition that Mike worked with them for a
+year and helped merge his product into their online portal.
+
+Then he quit because of the frustration of watching them ruin his baby.
+
+Relevance to ILR
+----------------
+
+* Larger firms acquire and then destroy rivals rather than innovate
+
+Ethan Applesauce Holmes
+=======================
+
+I met Ethan Holmes in Cleveland when he was 16 and he and I were in the
+same business pitch competition.
+
+He sold jars of applesauce at local farmer's markets.  He was looking
+for investment money.
+
+He sold a jar for $5 and made a buck off each jar.  It was all sourced
+from a couple of local orchards.
+
+Nobody at the local tech incubators wanted to talk to him.
+
+They funded projects like DecisionDesk or Complion.
+
+I did my best to mention him to every investor that talked to me.  "Go
+talk to this kid."
+
+

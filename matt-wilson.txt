@@ -1,18 +1,9 @@
-Suggested Reading
-=================
-
-W E Deming said it all already back in the 1950s.
-
-https://deming.org/explore/fourteen-points/
-
-https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/
-
-https://deming.org/the-value-of-dignity-in-work-give-or-take-6-minutes-2/
-
-https://en.wikiquote.org/wiki/W._Edwards_Deming
-
 Me
 ==
+
+Matt Wilson
+
+matt@216software.com
 
 * I got a degree in Economics from University of Houston in 1998
 
@@ -22,11 +13,26 @@ Me
 
 * Since like 2006, I cofounded or worked on several startups.
 
-* Several were Software as a Service (SaaS) startups focusing on
-  workflow automation or worker productivity or regulation compliance
+* Several focused on workflow automation or worker productivity or
+  regulation compliance
 
-* I'm not rich
+* I'll talk about how I've seen how software products alter people's
+  work lives
 
-* I've seen how software products alter people's work lives, for good
-  and evil
+* I'll talk about how investors influence how software is written
+
+Suggested Reading
+=================
+
+W E Deming said it all already back in the 1950s.
+-------------------------------------------------
+
+https://deming.org/explore/fourteen-points/
+
+https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/
+
+https://deming.org/the-value-of-dignity-in-work-give-or-take-6-minutes-2/
+
+https://en.wikiquote.org/wiki/W._Edwards_Deming
+
 
