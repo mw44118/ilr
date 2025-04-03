@@ -40,33 +40,42 @@ Me
 * Some were Software as a Service (SaaS) startups focusing on workflow
   automation or worker productivity or regulation compliance
 
-* I'm not rich, so take ingest the appropriate amount of NaCl
+* I'm not rich
 
-* I've seen how software products alter people's lives, for good and
-  evil
+* I've seen how software products alter people's lives, good and bad
 
-Patterns
-========
+Patterns in B2B SaaS software at the beginning
+==============================================
 
-* Initially, the prototype has to be loved by the people that are using
-  it
+* Sales pitch goes something like "this will make your least favorite
+  part of your job go away"
 
-* Sales pitch for version 1.0 is to small customers, and it goes
-  something like "this will make your least favorite part of your job go
-  away"
+* Early customers are small and in weird niches and not satisfied by
+  mainstream stuff (or they wouldn't talk to you) but they have the
+  problem you're trying to solve
 
-* This is my favorite part because it involves making people's lives
-  better
+* Lots of: 
+    * Update the code 
+    * ask "does it work better now?"
 
-* making a product people want to use only matters when people have
-  autonomy and purchasing power
+Patterns in the middle
+============================
 
-* Once you start selling to big customers, employee buy-in matters less
+* Your small customers got you introductions to big customers 
 
-* Big customer sales pitch is more like "replace your high cost
-  employees with our technology and low-cost, lower-skilled workers."
+* Big customers mostly care about profits (boost revenue or cut costs)
 
-* VC investors want "hockey stick" growth
+* Sales pitch is more like "replace your high cost employees with our
+  technology and low-cost, lower-skilled workers."
+
+* OR "You need this product to comply with regulations"
+
+* Sales process takes longer and means big revenue.
+
+* Customer is not a single 40-seat license, but maybe 4000-seat license,
+  and they'll pay more per seat, too, if we integrate with their stuff.
+
+* You took VC money and they want "hockey stick" growth.
 
   "In the derogatory sense, a business started with the intention of
   becoming a startup, but which instead becomes a smaller business is
@@ -75,11 +84,9 @@ Patterns
 
   https://en.wikipedia.org/wiki/Lifestyle_business
 
-* For b2b businesses, you need big customers
+* Once you start selling to big customers, employee buy-in matters less
 
-* Big customers mostly care about profits (boost revenue or cut costs)
-
-* Products go from being useful to becoming spyware
+* New features don't get much UX scrutiny
 
 OnShift
 =======
@@ -90,40 +97,21 @@ OnShift
 * $250k angel investment in 2007 meant my partner and I could quit day
   jobs
 
-* By 2009, the software help managers plan / maintain / update / revise
-  schedules
+* By 2009, the software could plan / maintain / update / revise shift
+  schedules for (theoretically) any workforce.
 
-* Most customers were skilled nursing facililities (SNFs) or hospitals.
+* Employees could trade shifts with each other, apply for open shifts,
+  modify schedule, etc.
 
-* Hours per resident day (HPRD) is a metric that says roughly "if you
-  have this many patients in your facility as of midnight, you have to
-  have at least this many hours scheduled."
+* Schedulers could see shifts that over or under scheduled based on
+  goals (often linked to count of patient in bed)
 
-* Think like teacher:student ratios in class rooms, but nurse:patient
-  instead
+* Report people that clock in early or clock out late
 
-* Ohio has a 2.5 HPRD, so each patient is promised 2.5 hours of nursing
-  care that day.
+* Discourage giving shifts to high-wage employees when lower-cost
+  employees were available
 
-* One nurse working five hours can take care of two patients.
-
-* 100 patients in beds as of midnight means you need 250 scheduled hours
-  for that day.  If your nurses work 12-hour shifts, you need 21 nurses.
-
-* The system, among other things, found people to cut when scheduled
-  hours exceeded HPRD regulations.
-
-* We claimed that the product would pay for itself by identifying
-  "extra" scheduled labor beyond legal minimums
-
-* We added features meant to reduce labor costs:
-
-    * Reports showing people that clock in early or clock out late
-
-    * Discourage giving shifts to high-wage employees when lower-cost
-      employees were available
-
-    * Require approval for overtime scheduling
+* Recommend alternatives to granting over time
 
 Relevance to y'all
 ------------------
@@ -131,11 +119,9 @@ Relevance to y'all
 A product that improves the quality of life of workers is not easy to
 sell if workers aren't really involved in the decision making process.
 
-There is a deep chasm separating health care providers (doctors, nurses,
-nurse assistants, etc) and health care facility owners.  
-
-The human experience of medical care doesn't show up in the financial
-reports.
+We needed the labor cost savings features to land the big customers.
+Big firms didn't care about letting their workers help plan the
+schedule.
 
 SpotHero
 ========
@@ -144,10 +130,12 @@ SpotHero
   to park for the night?" (quote from founder)
 
 * Marketplace app for parking.  Launched in Chicago.  Allows you to
-  reserve a parking spot, sort of like a hotel room.
+  reserve a parking spot in the future.
+
+* B2B on the parking garage owner side, B2C on the driver side
 
 * An early customer was a garage that shut down on Sundays because of
-  perceived low deman.  
+  perceived low demand
 
 * We pre-paid for the attendants to be there and we sold parking
   tickets in advance on our site, gambling we could cover their costs.
@@ -176,18 +164,24 @@ Complion
 
     * verify credentials of clinicians and facilities
 
-* As of the 2010s, many of these drug trials used literal 3-ring binders
-  in hallway file cabinets to track studies.
+* As of the 2014, many drug trials used literal 3-ring binders in
+  hallway file cabinets to track studies
 
-* To build it, we interviewed as many clinical trial coordinators as we
-  could 
+* Maybe they had a whole bunch of scanned in documents on a network
+  drive
+
+* We interviewed as many clinical trial coordinators as we could to
+  learn how they did their job
 
 * We built a "one size fits most" product with built-in checklists and
-  guides 
+  guides for those coordinators
 
-* Our product became "the way to run drug trials" at a lot of hospitals
+* Product became "the way to run drug trials" at a lot of hospitals
 
-* PE acquired Complion, combined competing products into one product
+* PE acquired Complion, combined competing products into one product,
+  laid off everyone, shipped dev and support jobs overseas
+
+* Complion was started partially with public money (so was OnShift)
 
 Relevancy to ILR
 ----------------
@@ -210,115 +204,143 @@ Relevancy to ILR
     (usually for the worst like silos and constraining org chart
     structures, particularly due to enterprise software)"
 
-* In other words, new technology can codify silos into existence
-
-* Just because I'm good at JavaScript, I'm telling PhD researchers how
-  to do their job.  Is this valid?
-
 Decision Desk
 =============
 
 * Applying to musical conservatories, art schools, and theater programs
   involves submitting samples of work (e.g., concert footage).
 
-* Professors review the work and maybe admit them.
+* Professors review their work, discuss, and decide on admitting them
 
 * DecisionDesk was a software platform to replace a very messy and
-  error-prone process
+  error-prone process, managed by overworked staff
 
-* Pretty quick, the founders signed up a small number of very happy
-  customers.
+* After VC investment, DecisionDesk went after new new markets
 
-* After VC investment, DecisionDesk started work on a new product and an
-  aggressive sales campaign.
-
-* Larger universities signed up and revenue spiked!
-
-* Every new contract came with so many new feature requests that it
+* Every new customer came with so many new feature requests that it
   killed margins
-
-* The app now worked differently for different customers.  Customers
-  needed more help using it.  Again, this also killed margins.
 
 * Customer churn increased, usually due to bugs in new features
 
 * We couldn't raise more money and costs were way above revenue, so it
   shut down
 
-Relevancy
----------
-
-* Processing applications for music school was a complex, crooked
-  process
-
-* Sometimes there is no obvious "one size fits all solution"
-
-* Workflow automation is not easy when people have fundamentally
-  different methods
-
 Streamliner
 ============
 
-This is a product I built for a client to use in-house.  My client is a
-liquidator. 
+* The client is a liquidator in central Ohio. He also owns several
+  discount stores in Ohio and that he stocks with liquidated goods.
 
-He has a bunch of warehouses in central Ohio.  He keeps a team of people
-that unpack truck loads of returned and discontinued or out of demand
-goods from retailers like Target, CVS, Walgreens, Amazon, other places.
+* He gets shipments of returned, discontinued, or clearance goods from
+  big retailers at about 10% to 30% of the retail price.
 
-The unpackers followed guidelines like: 
+* The old analog process of unpacking a truck looked like:
+    
+    * grab an item
+    * Find a UPC on the box
+    * scan it and look up price, other details
+    * put the item in the appropriate box:
+        * expensive and small items get sold online
+        * some food goes to the retail discount store
+        * other food (like candy) gets sold online
+        * apparel goes to discount store
 
-Expensive and lightweight items should be listed on online and shipped.
+* My software did the pricing lookup and dispatch ahead of time, before
+  the workers arrived, so when somebody scanned a UPC, I could
+  immediately say "put this in box C"
 
-A different set of goods should be sold in their own discount store
-(food, apparel, big toys, etc).
-n
+* Breaking down a shipping container became much faster.
 
-Some items should be packed into different shipping containers.
+* The warehouse staff shrunk quickly because the same people got a lot
+  more done.  
 
-I made a system where the workers used bluetooth ear pieces and cheap
-android tablets.  They would search for any bar code they could, scan
-it, and the system would recommend a container to put the item into.
-
-I got there a few weeks later and five people were now doing the work
-that used to be like twenty people.
-
-The boss makes more money now.  But this is Massillon, Ohio.  There's no
-other jobs nearby for the people.
-
-Eventually the client stopped buying returned goods from Amazon because
-Amazon improved their own systems and the mix of items in containers
-changed away from stuff like wristwatches (very lucrative) and towards
-stuff like apparel.
-
-I saw first hand how producers of apparel and books  create about 2x to
-5x of the expected sales and plan to throw it out.
-
-This stuff takes weeks or months to get to market and the production
-systems are scheduled out, so the worst thing is for there to be
-customers looking for a product and having to wait.  Customers will
-pick a substitute.
-
-I saw a pile of copies of Sarah Palin's autobiography big enough to fill
-up my house.  
-
-The incremental cost of printing extra is almost zero.
+* The owner made a lot more money
 
 SofaConcerts
 ============
 
-A marketplace app that musicians find gigs.  You're a small (<200 person
-capacity) venue, so you make an account.
+SofaConcerts is a marketplace app that connects musicians and venues.  
 
-Musicians now can plan tours m
+Use the app to hire musicians to play a concert in your house that you
+watch from your sofa.
 
-The site processes the payments, holds money in escrow, so musicians get
+Pandemic was truly a black swan event (unpredictable and devastating)
+for them but they're making it
+back.
+
+SofaConcerts processes the payments, holds money in escrow, so musicians get
 paid (big problem).
 
-Most venues get about 3 applications for every open spot they're looking
-to fill.
+Most venues get about 3 applications for every open spot on the calendar
+they're looking to fill.
 
-Pandemic bankrupted so many small venues 
+Artists have to apply to about 30 venues to get a gig.  Sounds bad but
+musicians love finding more opportunities to play.
+
+Message from SofaConcerts Technical CoFounder and CTO Rob Heinen
+================================================================
+
+Reasons why SofaConcerts, as a tech platform is cool.
+
+1. Supports smaller / local musicians with more gigs.
+
+Generally, smaller artists only make money when they tour or play shows
+(there's not any money from streaming or record sales).
+
+Artists can generally go on tour every so often, and even then, you need
+to be a certain size to fill a room.
+
+We fill a niche to bring artists more shows and generally shows they
+wouldn't normally get (maybe a superfan would you invite you to play
+their birthday party, but it is every unlikely before our marketing
+work, that you would be asked to play birthdays or living rooms
+consistently).
+
+2. With prepayment, we make sure artists get paid out. We also have a
+framework in place so that if the show gets cancelled or the artist gets
+sick, that both sides of the transaction are protected. If you're having
+a wedding and a band drops out last minute, we're actively searching for
+a replacement.
+
+If you're a band and a host has to cancel, you still get paid for the
+concert if it's within a certain time range.
+
+3. Listening audiences -- our musicians are appreciative as the
+SofaConcert / Living Room concert atmosphere is not like a bar or a club
+show. People are there to experience the intimate show. Without sounding
+too much like a marketer, these small attentive audiences can really
+create magical moments (we get a lot of reviews that mention
+goosebumps).
+
+For musicians, this seems to be the best type of audience (but I imagine
+can also be nervewracking, since everyone is attentive).
+
+4. We've done a lot of work in our market to bring the idea of a 'Sofa
+Concert' or Living room show into the normal parlance. That is House
+Shows / Living room shows have always been there in the DIY / punk scene
+and people with friends in bands have probably had them play a birthday
+or an outdoor event.
+
+But it's becoming more common (we see this also in competitor analysis
+where they use words like SofaConcert and Wohnzimmer konzert) to think,
+for my birthday, I'm going to invite a musician for a private concert.
+
+Obviously, there are other companies as well that have helped normalize
+this (Sofar Sounds for instance, bring smaller musicians to unique
+spaces), but our model is gennerally the best for the artist.
+
+5. Culture in smaller towns -- we make it easier for touring artists to
+visit smaller villages and towns. They might have an event series, or a
+local music lover with a barn or big backyard. When they're on
+SofaConcerts, they can be found by touring artists -- so you might have
+someone from Ann Arbor touring for the summer and meeting a bunch of
+locals.
+
+They generally provide food and accomodation and are excited to have
+someone there. It supports a different touring model (most of the time
+the listeners aren't fans of the band per se, but fans of live music).
+Either way, these can be very fulfilling shows for both sides, and
+promote cultural exchange.
 
 Bonus Content
 =============
@@ -352,3 +374,6 @@ pride of workmanship."
 
 Give somebody a chance to take pride in their work, and they'll surprise
 you.
+
+Include the users in the design process.  In economic terms, customer
+satisfaction often becomes an externality as markets concentrate.
