@@ -21,6 +21,7 @@ Class goals from syllabus
     deleterious impact of workplace technological change and articulate
     the potential unintended consequences of these policies.
 
+
 My goals today
 ==============
 
@@ -31,6 +32,7 @@ My goals today
 * Isolate my experience from my opinion
 
 * Sway you to be kind bosses, because the invisible hand is a mofo
+
 
 Me
 ==
@@ -44,11 +46,12 @@ Me
 
 * I've seen how software products alter people's lives, good and bad
 
+
 Patterns in B2B SaaS software at the beginning
 ==============================================
 
 * Sales pitch goes something like "this will make your least favorite
-  part of your job go away"
+  part of your job go away, or at least make it less miserable"
 
 * Early customers are small and in weird niches and not satisfied by
   mainstream stuff (or they wouldn't talk to you) but they have the
@@ -58,15 +61,18 @@ Patterns in B2B SaaS software at the beginning
     * Update the code 
     * ask "does it work better now?"
 
-Patterns in the middle
-============================
+* "Eat what you kill"
+
+
+Patterns in the middle part 1
+=============================
 
 * Your small customers got you introductions to big customers 
 
 * Big customers mostly care about profits (boost revenue or cut costs)
 
-* Sales pitch is more like "replace your high cost employees with our
-  technology and low-cost, lower-skilled workers."
+* Sales pitch is now more like "replace your high cost employees with
+  our technology and low-cost, lower-skilled workers."
 
 * OR "You need this product to comply with regulations"
 
@@ -74,6 +80,10 @@ Patterns in the middle
 
 * Customer is not a single 40-seat license, but maybe 4000-seat license,
   and they'll pay more per seat, too, if we integrate with their stuff.
+
+
+Patterns in the Middle part 2
+=============================
 
 * You took VC money and they want "hockey stick" growth.
 
@@ -87,6 +97,16 @@ Patterns in the middle
 * Once you start selling to big customers, employee buy-in matters less
 
 * New features don't get much UX scrutiny
+
+
+My main idea
+============
+
+* In economic terms, worker quality of life / job satisfaction often
+  becomes an externality, sort of like pollution, as firms grow.
+
+* Software tools reflect this and exacerbate this
+
 
 OnShift
 =======
@@ -103,25 +123,28 @@ OnShift
 * Employees could trade shifts with each other, apply for open shifts,
   modify schedule, etc.
 
-* Schedulers could see shifts that over or under scheduled based on
-  goals (often linked to count of patient in bed)
+* Managers got reports like 
 
-* Report people that clock in early or clock out late
+    * "There's too many nurses tonight given the number of patients in beds"
+    * "You're under the state minimum staffing level on floor 3 next Wednesday"
+    * lists of people that clock in early or clock out late
 
-* Discourage giving shifts to high-wage employees when lower-cost
-  employees were available
+* System would discourage before giving shifts to high-wage employees
+  when lower-cost qualified employees were available
 
-* Recommend alternatives to granting over time
+* System would recommend alternatives to granting overtime 
+
+* PE acquired OnShift in 2022
+
 
 Relevance to y'all
 ------------------
 
-A product that improves the quality of life of workers is not easy to
-sell if workers aren't really involved in the decision making process.
+* Big firms didn't care about letting their workers help plan the
+  schedule.
 
-We needed the labor cost savings features to land the big customers.
-Big firms didn't care about letting their workers help plan the
-schedule.
+* We needed the labor cost savings features to land the big customers.
+
 
 SpotHero
 ========
@@ -143,11 +166,10 @@ SpotHero
 Relevance
 ---------
 
-* Reservations for parking meant attendants got extra shifts sometimes
-
 * At first, new technology boosted demand for attendants
 
 * Later, parking lot attendants often were replaced
+
 
 Complion
 ========
@@ -157,24 +179,22 @@ Complion
 
     * tracking patient consent, perhaps with regular renewals
 
-    * track patients joining and leaving 
+    * patients join and leave 
 
-    * protocols used in the study may change and changes need to be
-      documented
+    * protocols used in the study may change 
 
     * verify credentials of clinicians and facilities
 
-* As of the 2014, many drug trials used literal 3-ring binders in
-  hallway file cabinets to track studies
+* As of 2014, many drug trials used literal 3-ring binders in hallway
+  file cabinets to track studies
 
-* Maybe they had a whole bunch of scanned in documents on a network
-  drive
+* Or maybe a network drive had scanned-in PDFs
 
 * We interviewed as many clinical trial coordinators as we could to
   learn how they did their job
 
-* We built a "one size fits most" product with built-in checklists and
-  guides for those coordinators
+* We built a "one size fits most" product with built-in checklists /
+  guides / workflows / messaging to run a drug trial
 
 * Product became "the way to run drug trials" at a lot of hospitals
 
@@ -187,27 +207,28 @@ Relevancy to ILR
 ----------------
 
 * Clinical Coordinators could now run vastly more trials. Does that mean
-  more wages or layoffs?
+  higher wages or layoffs?
 
 * We created a single workflow and since it was so much better in some
   ways, people adopted it.
 
-* There are people run thinking that the way our system works is now the
-  official way to do it.
+* There are people hired since their lab adopted the product.  Those
+  people think that Complion is somehow the official way to run drug
+  trials.
 
 * But we designed this system based on what we could get done quick, so
   we could sell it.
 
-* Founder of Complion sent me this text recently:
+* Founder of Complion sent me this recently:
 
     "...a software industrial complex has changed how companies are run
     (usually for the worst like silos and constraining org chart
     structures, particularly due to enterprise software)"
 
-Decision Desk
-=============
+Decision Desk (RIP)
+===================
 
-* Applying to musical conservatories, art schools, and theater programs
+* Students applying to musical conservatories, art schools, and theater programs
   involves submitting samples of work (e.g., concert footage).
 
 * Professors review their work, discuss, and decide on admitting them
@@ -226,7 +247,7 @@ Decision Desk
   shut down
 
 Streamliner
-============
+===========
 
 * The client is a liquidator in central Ohio. He also owns several
   discount stores in Ohio and that he stocks with liquidated goods.
@@ -259,26 +280,46 @@ Streamliner
 SofaConcerts
 ============
 
-SofaConcerts is a marketplace app that connects musicians and venues.  
+* SofaConcerts is a marketplace app that connects musicians and venues.  
 
-Use the app to hire musicians to play a concert in your house that you
-watch from your sofa.
+* Use the app to hire musicians to play a concert in your house that you
+  watch from your sofa.
 
-Pandemic was truly a black swan event (unpredictable and devastating)
-for them but they're making it
-back.
+* Pandemic was devastating
 
-SofaConcerts processes the payments, holds money in escrow, so musicians get
-paid (big problem).
+* SofaConcerts processes the payments, holds money in escrow, so
+  musicians get paid (big problem).
 
-Most venues get about 3 applications for every open spot on the calendar
-they're looking to fill.
+* Venues get about 3 artists applying for every open calendar spot
 
-Artists have to apply to about 30 venues to get a gig.  Sounds bad but
-musicians love finding more opportunities to play.
+* Artists have to apply to about 30 venues to get a gig.  Sounds bad but
+  musicians love finding more opportunities to play.
+
+The bottleneck is on the venue side.  The whole concept is  to grow
+cultural demand for live music, so that's the thrust of their marketing.
+
+Relevance to ILR
+----------------
+
+* Musicians are the original gig workers, depending on venues to book
+  them
+
+* App finds unused capital for workers (like a sofa at a house is good
+  enough for a gig)
+
+Bonus Content
+=============
+
+Got a cool idea?
+----------------
+
+Matt Wilson
+
+matt@216software.com
+
 
 Message from SofaConcerts Technical CoFounder and CTO Rob Heinen
-================================================================
+----------------------------------------------------------------
 
 Reasons why SofaConcerts, as a tech platform is cool.
 
@@ -342,8 +383,6 @@ the listeners aren't fans of the band per se, but fans of live music).
 Either way, these can be very fulfilling shows for both sides, and
 promote cultural exchange.
 
-Bonus Content
-=============
 
 Mythical Man Month
 ------------------
@@ -372,8 +411,8 @@ https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/
 "Remove barriers that stand between the hourly worker and his right to
 pride of workmanship."
 
-Give somebody a chance to take pride in their work, and they'll surprise
-you.
+My main idea
+============
 
-Include the users in the design process.  In economic terms, customer
-satisfaction often becomes an externality as markets concentrate.
+* In economic terms, worker quality of life / job satisfaction often
+  becomes an externality, sort of like pollution, as firms grow.
