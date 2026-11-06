@@ -1,0 +1,97 @@
+I heard somebody on TikTok say this:
+
+  "if you haven't mourned the death of coding as a craft, you were never
+  good at it."
+
+There was a time maybe from like 1995 or so until 2025 where if you had
+the time and energy and aptitude, you could make a good living in tech.
+
+I feel like it's the same thing that happened to carpentry.  The vast
+majority of products we have are things like what you get from Ikea.
+
+Very few of us have custom-made furniture in our houses.
+
+There was a time when all furniture was custom-made.  All bookshelves,
+all dining tables, all dressers, etc.  All built by hand from raw
+materials.
+
+Now we buy boxes of flat-packed stuff and we assemble it.
+
+Coding agents are similar for code.
+
+The workflow in a software company up until about 2025 looked like this:
+
+Somebody writes a ticket, like:
+
+  Allow people to log in to our web app using Google SSO (single
+  sign-in).
+
+  Add a button "Sign in with Google!" to the login page, above the
+  "email and password" form.  Use the attached mockup for details about
+  the font and images used.
+
+  Record in the database how somebody logs in (Google SSO vs email and
+  password).
+
+And then that gets handed to a senior programmer.  That person maybe
+adds some technical details and then often hands it off to a junior
+programmer who writes the code.  The senior programmer might answer some
+questions.
+
+The code gets installed on a server and a tester verifies it works, and
+tries out lots of wacky stuff to break it, such as:
+
+  - use a weird email address
+  - use all sorts of strange browsers or old phones
+
+Maybe the tester kicks it back to the programmer with a list of bugs
+they found, and then the programmer fixes the bugs, and asks the tester
+to check again.
+
+Then after testing succeeds, the code gets deployed to the real server
+where real customers use it.
+
+Here's the cast of characters around 2006:
+
+1.  Somebody with a title like "Product Designer" wrote the original
+    ticket.
+
+2.  A senior programmer / engineer that coaches the junior and explains
+    all the undocumented details in the in-house systems.
+
+3.  A junior programmer that does the work and handles the bug reports
+
+4.  The tester
+
+5.  The devops engineer that takes the code and deploys it into the
+    production servers.
+
+Now, this is what the workflow looks like (in general):
+
+The product designer writes the ticket and sends it into a coding agent
+directly.  The coding agent has a testing server that it installs the
+code into maybe 15 minutes later.  The product designer tries it out,
+and then tells the coding agent to deploy it.
+
+If something blows up in production, then the product designer might ask
+the senior programmer to look at it.  Most of the time, the coding agent
+gets these things right though!
+
+The industry has decided that less testing is OK.  The product designer
+accepts that maybe the product won't look exactly
+
+It's a bit like how when you buy groceries at Walmart, you kinda accept
+that there might be some apples that are already starting to rot.
+
+In particular, coding is something that large-language models are very
+good at, for at least two reasons:
+
+- there's so much good code out there on the internet that the models
+  were trained with.
+
+- the nature of writing code is
+
+There used to be a time where you could make a living being the human
+that could translate the ticket into code.
+
+
