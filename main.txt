@@ -25,7 +25,7 @@ Class goals from syllabus
 My goals today
 ==============
 
-* Share moments from my work life 
+* Share moments from my work life
 
 * Talk about how I see them linking to these class goals
 
@@ -57,8 +57,8 @@ Patterns in B2B SaaS software at the beginning
   mainstream stuff (or they wouldn't talk to you) but they have the
   problem you're trying to solve
 
-* Lots of: 
-    * Update the code 
+* Lots of:
+    * Update the code
     * ask "does it work better now?"
 
 * "Eat what you kill"
@@ -67,7 +67,7 @@ Patterns in B2B SaaS software at the beginning
 Patterns in the middle part 1
 =============================
 
-* Your small customers got you introductions to big customers 
+* Your small customers got you introductions to big customers
 
 * Big customers mostly care about profits (boost revenue or cut costs)
 
@@ -123,7 +123,7 @@ OnShift
 * Employees could trade shifts with each other, apply for open shifts,
   modify schedule, etc.
 
-* Managers got reports like 
+* Managers got reports like
 
     * "There's too many nurses tonight given the number of patients in beds"
     * "You're under the state minimum staffing level on floor 3 next Wednesday"
@@ -132,7 +132,7 @@ OnShift
 * System would discourage before giving shifts to high-wage employees
   when lower-cost qualified employees were available
 
-* System would recommend alternatives to granting overtime 
+* System would recommend alternatives to granting overtime
 
 * PE acquired OnShift in 2022
 
@@ -179,9 +179,9 @@ Complion
 
     * tracking patient consent, perhaps with regular renewals
 
-    * patients join and leave 
+    * patients join and leave
 
-    * protocols used in the study may change 
+    * protocols used in the study may change
 
     * verify credentials of clinicians and facilities
 
@@ -256,7 +256,7 @@ Streamliner
   big retailers at about 10% to 30% of the retail price.
 
 * The old analog process of unpacking a truck looked like:
-    
+
     * grab an item
     * Find a UPC on the box
     * scan it and look up price, other details
@@ -273,14 +273,14 @@ Streamliner
 * Breaking down a shipping container became much faster.
 
 * The warehouse staff shrunk quickly because the same people got a lot
-  more done.  
+  more done.
 
 * The owner made a lot more money
 
 SofaConcerts
 ============
 
-* SofaConcerts is a marketplace app that connects musicians and venues.  
+* SofaConcerts is a marketplace app that connects musicians and venues.
 
 * Use the app to hire musicians to play a concert in your house that you
   watch from your sofa.
@@ -316,7 +316,6 @@ Got a cool idea?
 Matt Wilson
 
 matt@216software.com
-
 
 Message from SofaConcerts Technical CoFounder and CTO Rob Heinen
 ----------------------------------------------------------------
