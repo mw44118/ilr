@@ -1,0 +1,4 @@
+.*.swp
+
+# This is the output of the build.py
+slides.html
