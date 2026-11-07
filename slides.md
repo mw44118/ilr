@@ -10,6 +10,13 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
+## My main idea
+
+- In economic terms, as firms grow larger, worker quality of life / job
+  satisfaction often becomes an externality, sort of like pollution.
+
+---
+
 ## Class goals from syllabus (1)
 
 1. Assess the extent to which the present wave of emerging workplace
@@ -22,7 +29,7 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-## Class goals from syllabus (2)
+## Class goals from syllabus
 
 3. Identify potential points of conflict and change in workplace
    hierarchy given information about how a new technology is being used
@@ -34,32 +41,7 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-## My goals today
-
-- Share moments from my work life
-
-- Talk about how I see them linking to these class goals
-
-- Isolate my experience from my opinion
-
-- Sway you to be kind bosses, because the invisible hand is a mofo
-
----
-
-## Me
-
-- Since like 2006, I cofounded or worked on several startups.
-
-- Some were Software as a Service (SaaS) startups focusing on workflow
-  automation or worker productivity or regulation compliance
-
-- I'm not rich
-
-- I've seen how software products alter people's lives, good and bad
-
----
-
-## Patterns in the beginning
+## Biography of a product (loosely OnShift)
 
 - Sales pitch goes something like "this will make your least favorite
   part of your job go away, or at least make it less miserable"
@@ -68,69 +50,61 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
   stuff (or they wouldn't talk to you) but they have the problem you're
   trying to solve
 
----
-
-## Patterns in the beginning (2)
-
-- Lots of:
-
-  - Update the code
-
-  - ask "is it better now?"
-
-- "Eat what you kill"
+- Early customers collaborate on design and new features
 
 ---
 
-## Patterns in the middle (1)
+## Small vs large customers
 
-- Sales pitch is now "replace your high cost employees with our
+- Small customers don't pay much
+
+- at the company, there's the people that will be using the software.
+
+- and the people that are paying for it.
+
+- how far apart are they in the company org chart?  How many layers are
+  between them?
+
+- With small customers they're closer.
+
+- so you need them to like the product.
+
+
+## Large company tendencies
+
+- The users may not be involved in decision-making
+
+- So it's less important the users like the product; they'll be forced
+  to use it
+
+- The product may not add any productivity but just introduce monitoring
+
+- Big customers take longer, pay more, may demand extra work for their
+  pet features
+
+- If you took investment money, your board will push you toward larger
+  customers
+
+- Sales pitch becomes "replace your high cost employees with our
   technology and low-cost employees"
 
-- Customer is not a 40-seat license, but maybe 4000-seat license, and
-  they'll pay more per seat, too
-
-- But only if we integrate with their stuff
-
 ---
 
-## Patterns in the Middle (2)
+## Patterns with large customeres
 
-- You took VC money and they want "hockey stick" growth.
-
-> "In the derogatory sense, a business started with the intention of
-> becoming a startup, but which instead becomes a smaller business is
-> often referred to as a lifestyle business by investors or other
-> detractors."
-
-[https://en.wikipedia.org/wiki/Lifestyle_business](https://en.wikipedia.org/wiki/Lifestyle_business)
-
----
-
-## Patterns in the Middle (3)
-
-- Once you start selling to big customers, employee buy-in matters less
+- Employee buy-in matters less
 
 - New features driven by sales potential
 
-- UX matters less
-
 ---
 
-## My main idea
-
-- In economic terms, as firms grow, worker quality of life / job
-  satisfaction often becomes an externality, sort of like pollution.
-
----
-
-## OnShift (1)
+## OnShift
 
 - Prototype in 2006: find somebody to work a shift by blasting texts to
   qualified and available employees
 
 - $250k angel investment in 2007 meant my partner and I could quit day
-  jobs
+  jobs and work on it
 
 - By 2009, the software could plan / maintain / update / revise shift
   schedules for (theoretically) any workforce.
@@ -140,21 +114,17 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-## OnShift (2)
+## OnShift later features
 
-- Manager reports like
+- Regulations in nursing homes require a minimum ratio of staff on the
+  schedule to patients
 
-  - "There's too many nurses tonight given the number of patients in
-    beds"
+- Nursing homes try to minimize shifts down to regulatory minimums
 
-  - "You're under the state minimum staffing level on floor 3 next
-    Wednesday"
+- System would recommend shifts to cancel when staff hours were above
+  minimum levels.
 
-  - lists of people that clock in early or clock out late
-
----
-
-## OnShift (3)
+- lists of people that clock in early or clock out late
 
 - System would discourage before giving shifts to high-wage employees
   when lower-cost qualified employees were available
@@ -162,6 +132,19 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 - System would recommend alternatives to granting overtime
 
 - PE acquired OnShift in 2022
+
+---
+
+Side note: private equity rollups are a big part of what is going on.
+
+Their goals
+
+- combine companies, improve efficiency, use market power to negotiate
+  better price
+
+These drive the technology they buy
+
+- Workers don't get a say
 
 ---
 
@@ -182,23 +165,11 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 - Marketplace app for parking. Launched in Chicago. Allows you to
   reserve a parking spot in the future.
 
----
+- Initially, it was very important that parking attendants had a good
+  experience using the app to verify paying customers
 
-## SpotHero (2)
-
-- An early customer was a garage that shut down on Sundays because of
-  perceived low demand
-
-- We pre-paid for the attendants to be there and we sold parking tickets
-  in advance on our site, gambling we could cover their costs.
-
----
-
-## Relevance
-
-- At first, new technology boosted demand for attendants
-
-- Later, parking lot attendants often were replaced
+- We needed them to use the app way more than they needed us, so their
+  satisfaction was key.
 
 ---
 
@@ -229,165 +200,81 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-## Relevancy to ILR (1)
-
-- Clinical Coordinators can run more trials.
-
-- Does that mean more work? higher wages? or layoffs?
-
-- "One size fits **most**"
-
-- We designed this system based on what we could get done quick, so we
-  could sell it.
-
----
-
-## Relevancy to ILR (2)
-
-- Message from Complion founder
+## Message from Complion founder
 
 > "...a software industrial complex has changed how companies are run
 > (usually for the worst like silos and constraining org chart
 > structures, particularly due to enterprise software)"
 
----
-
-## Decision Desk (RIP) (1)
-
-- Students applying to musical conservatories, art schools, and theater
-  programs involves submitting samples of work (e.g., concert footage).
-
-- Professors review their work, discuss, and decide on admitting them
-
-- DecisionDesk was a software platform to replace a very messy and
-  error-prone process, managed by overworked staff
-
----
-
-## Decision Desk (RIP) (2)
-
-- After VC investment, DecisionDesk went after big state schools
-
-- Every new customer came with so many new feature requests that it
-  killed margins
-
-- Customer churn increased, usually due to bugs in new features
-
-- We couldn't raise more money and costs were way above revenue, so it
-  shut down
-
----
-
 ## Streamliner (1)
 
 - The client is a liquidator in central Ohio
 
-- Trucks drop off shipping containers daily
+- Trucks drop off shipping containers daily from big retailers of stuff
+  they're done trying to sell, but it was poorly documented
 
-- Containers are loaded with returned / discontinued / clearance
-  products
-
-- Examples:
-
-  - Socks
-
-  - Wristwatches
-
-  - Sports merchandise
-
-  - Cookbooks
+- halloween candy in November, Valentines candy in March, etc
+- seasonal clothing after season ends, sports merch, etc
 
 ---
 
-## Streamliner (2)
+They needed a way to catalog everything they unpacked, and recommend how
+to sell it
 
-### Team member workflow
+- eBay for small expensive items like wristwatches or designer purses
 
-- Look up product online
+- Send most apparel to wholesale
 
-- put the item in the appropriate box:
-
-  - expensive and small items get sold online
-
-  - some food goes to the retail discount store
-
-  - other food (like candy) gets sold online
-
-  - apparel goes to discount store
-
-  - More rules...
-
----
-
-## Streamliner (3)
+- food items sold in discount store
 
 - Software did pricing lookup and dispatch decisions ahead of time
 
-- Same people got a lot more done
+- The boss paying me had his employees at the table telling me what they
+  wished the app could do
 
-- Employee count went way down, but survivors liked the tool
+- it was really fun to be integrated with the customers
 
 ---
 
 ## SofaConcerts (1)
 
-- Hire musicians to play at your house party
-
-- matches musicians and venues
-
-- Pandemic was devastating
+- webmatches musicians and venues
 
 - SofaConcerts handles payments and reviews
 
-- Venues get 3 artists for every open spot
+- Average venue gets 3 artists for every open spot
 
 - Artists get more gigs (like by adding house party shows during tours)
 
----
+- Artists get guaranteed payment because funds go in escrow before
+  performance
 
-## SofaConcerts (2)
-
-- "We've done a lot of work in our market to bring the idea of a 'Sofa
-  Concert' or Living room show into the normal parlance..."
-
-- "But it's becoming more common to think, for my birthday, I'm going to
-  invite a musician for a private concert."
-
-- "we make it easier for touring artists to visit smaller villages and
-  towns."
-
-- <a target="_blank" href="sofaconcerts.txt">Longer analysis from CTO and co-founder Rob Heinen here</a>
+- Culture in smaller towns -- we make it easier for touring artists to
+visit smaller villages and towns. They might have an event series, or a
+local music lover with a barn or big backyard. When they're on
+SofaConcerts, they can be found by touring artists -- so you might have
+someone from Ann Arbor touring for the summer and meeting a bunch of
+locals.
 
 ---
 
-## Bonus Content
+## Relevance to ILR
+
+From their technical cofounder:
+
+> "With prepayment, we make sure artists get paid out. We also have a
+> framework in place so that if the show gets cancelled or the artist gets
+> sick, that both sides of the transaction are protected. If you're having
+> a wedding and a band drops out last minute, we're actively searching for
+> a replacement.
+
+If you're a band and a host has to cancel, you still get paid for the
+concert if it's within a certain time range.
+
 
 ---
 
-## Mythical Man Month
-
-[https://en.wikipedia.org/wiki/The_Mythical_Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-
-> "Adding manpower to a late software project makes it later"
->
-> "the possibility of measuring useful work in man-months is a myth"
-
-Mythical Man Month, 1975
-
----
-
-## W. Edwards Deming (1)
-
-> "Fear invites wrong figures. Bearers of bad news fare badly. To keep
-> his job, anyone may present to his boss only good news."
-
-W. Edwards Deming, page 94, The New Economics
-
-[https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/](https://deming.org/where-there-is-fear-you-do-not-get-honest-figures/)
-
----
-
-## W. Edwards Deming (2)
+## W. Edwards Deming
 
 > 12a. Remove barriers that rob the hourly worker of his right to pride
 > of workmanship&#8230;
@@ -398,18 +285,3 @@ W. Edwards Deming, page 94, The New Economics
 [Point 12 from 14 points for management](https://deming.org/explore/fourteen-points/)
 
 ---
-
-## My main idea
-
-- In economic terms, as firms grow bigger, worker quality of life / job
-  satisfaction often becomes an externality, sort of like pollution.
-
----
-
-## Got a cool idea?
-
-[matt@216software.com](mailto:matt@216software.com)
-
-![](cropped-Logo.png)
-
-Let's destroy some jobs!
