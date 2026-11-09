@@ -81,7 +81,7 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-## Complion (software platform to manage FDA drug trials)
+## Complion (FDA drug trial software)
 
 > "...a software industrial complex has changed how companies are run
 > (usually for the worst like silos and constraining org chart
