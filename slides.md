@@ -12,9 +12,10 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ## Me
 
-- Since like 2006, I cofounded or worked on several startups.
+- My name is Matt (he / him) and since 2006, I cofounded or worked on
+  several startups.
 
-- Some were Software as a Service (SaaS) startups focusing on workflow
+- Most were Software as a Service (SaaS) startups focusing on workflow
   automation or worker productivity or regulation compliance
 
 - I'm not rich
@@ -51,21 +52,20 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 - Big nursing home chains wanted features like:
 
-  - cut scheduled hours down to regulatory minimums
+  - cut scheduled hours to regulatory minimums
   - recommend lowest-paid employees for any open shift
-
-- It really stopped being fun; the people using the product weren't
-  happy to see me anymore
 
 ---
 
 ## Is kinda like Enshittification
 
-- Nurses getting in trouble for clocking out late aren't happy with the
-  product, but their opinions no longer matter
-
 - Once you're selling a product to the boss who is going to use it to
-  spy on their workers, the product doesn't need to be fun to use
+  spy on / control their workers, the product doesn't need to be fun to
+  use
+
+- User buy-in isn't a bottleneck like it once was
+
+- the people using the product weren't happy to see me anymore
 
 ---
 
@@ -91,8 +91,6 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 
 ---
 
-
-
 ## Streamliner
 
 - In-house product for a retail liquidator
@@ -100,11 +98,9 @@ In markdown format: [https://ilr.tplus1.com/slides.md](https://ilr.tplus1.com/sl
 - Shipping containers arrived daily with random products from retailers
   for resale (think like last season's merch)
 
-  - small expensive stuff gets sold online
-  - apparel goes to other wholesale buyers
-  - food goes to discount retailers
-
 - Boss put his own workers in charge of giving me feature requests
+
+- So much fun to build!
 
 ---
 
@@ -196,7 +192,11 @@ your vision.
   working on running these on low-cost hardware (in other words, not
   hyperscale data centers).
 
+---
+
 ## Thanks for having me!
+
+- I love hearing y'all's thoughts!
 
 email: matt@216software.com
 
