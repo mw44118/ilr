@@ -1,0 +1,12 @@
+You can start up a python web server to serve up this dir like this:
+
+$ python -m http.server
+
+Edit the slides.md file, then build the slides.html file using the
+build.py script, then reload browser:
+
+$ python3 build.py
+
+There's no virtualenv.
+
+
